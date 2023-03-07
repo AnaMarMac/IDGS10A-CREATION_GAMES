@@ -11,3 +11,4 @@ public class StartGame : MonoBehaviour
         SceneManager.LoadScene(start);
     }
 }
+//prueba
